@@ -1,45 +1,50 @@
-# CPlusPlus-review-main
+# rookie-cplusplus
 
-## 主要内容
+[中文文档](./README-CN.md)
 
-- 主要内容都是一些STL容器和重要数据结构的模拟实现，和一些组件的模拟实现。
+## Main content
 
-- 一些C++封装库的学习和探究
+- The main contents are the simulation implementation of some STL containers and important data structures, as well as the simulation implementation of some components.
 
-**通过模拟实现，可以学习stl底层设计理念和编码方式。可以提高数据结构编码水平**
+- Study and exploration of some C++ encapsulation libraries
 
-**在这里面的stl模拟实现代码，不会完整实现stl的所有内容，只实现核心的组件，主要目的是学习，不是真的完整实现这些容器**
+**Through simulation implementation, you can learn the underlying design concepts and coding methods of STL. You can also improve your data structure coding skills.**
 
-## 目录
+**The stl simulation implementation code here will not fully implement all the contents of stl, but only the core components. The main purpose is to learn, not to fully implement these containers.**
 
-- stl_string: [模拟实现stl的string](./stl_string/)
+## Table of contents
 
-- stl_vector: [模拟实现stl的vector](./stl_vector/)
+> [!NOTE]
+> The specific code is only available in Chinese
 
-- stl_list: [模拟实现stl的list](./stl_list/)
+- stl_string: [Simulate the implementation of stl string](./stl_string/)
 
-- stl_stack_queue: [模拟实现stl的stack和queue](./stl_stack_queue/)
+- stl_vector: [Simulate the implementation of stl vector](./stl_vector/)
 
-- stl_deque: [这个模式实现非常复杂，我在另一个项目里进行了详细实现](https://github.com/Yufccode/STL-based-Deque-implementation)
+- stl_list: [Simulate the implementation of stl list](./stl_list/)
 
-- stl_priority_queue: [模拟实现stl的priority_queue优先队列](./stl_priority_queue/)
+- stl_stack_queue: [Simulate the stack and queue of stl](./stl_stack_queue/)
 
-- avl_tree: [平衡搜索二叉树实现](./avl_tree/)
+- stl_deque: [This pattern is very complex to implement, I have implemented it in detail in another project](https://github.com/ffengc/STL-based-Deque-implementation)
 
-- rd_black_tree: [红黑树的实现](./red_black_tree/)
+- stl_priority_queue: [Simulate the implementation of stl's priority_queue priority queue](./stl_priority_queue/)
 
-- stl_set_map: [用红黑树封装这两个容器](./stl_set_map/)
+- avl_tree: [avl tree implementation](./avl_tree/)
 
-- skip_list: [跳表实现](./skip_list/)
+- rd_black_tree: [Implementation of red-black tree](./red_black_tree/)
 
-- union_find_disjoint_set: [并查集](./union_find_disjoint_set/)
+- stl_set_map: [Encapsulate these two containers with red-black trees](./stl_set_map/)
 
-- Graph: [图](./Graph/)
+- skip_list: [skip table implementation](./skip_list/)
 
-- LRUCache: [lru缓存](./LRUCache/)
+- union_find_disjoint_set: [Union find set](./union_find_disjoint_set/)
 
-- random_lib: [C++ `<random>`库学习（还未实现完）](./random_lib/)
+- Graph: [graph theroy](./Graph/)
 
-- algorithm_lib: [C++ `<algorithm>`库学习](./algorithm_lib/)
+- LRUCache: [lru cache](./LRUCache/)
 
-- numeric_lib: [C++ `numeric`库学习](./numeric_lib/)
+- random_lib: [C++ `<random>` lib](./random_lib/)
+
+- algorithm_lib: [C++ `<algorithm>` lib](./algorithm_lib/)
+
+- numeric_lib: [C++ `numeric` lib](./numeric_lib/)
